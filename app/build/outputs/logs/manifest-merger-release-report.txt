@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\70dfa1639f33c8429312d507b0134909\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0842b593cad07cbb908383a6e77d549e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\827168c30e667029e8670ec88c742402\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8aab790d23a1f5cea08d097818734544\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\19205a247f35e52c85f9eca672c83469\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c57a2affaf292635209eda4b7be98903\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7c708cffcb0f47de7bfd8d1f690d77c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1b86675b2937678f1dd1ef8e5ec9a75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ae5233637405ca465ec8460bbb965728\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8ce37c95bebb80599675b9c222ba26a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9ff779ed25e94397c434425ef9cf60a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9999f1335ddb5d30af49393933259caf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\372cc2ee620a7e1f8b604ff847e510a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f52d9f2f4d58a85c53b60671f146e722\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c4369d72434b818a0f44e2d6b93825d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c4ccc13053a687b5215ee4f587ea2f29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\89e078a4f3624788cfec30d9ba5d87e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3d65f71cc89f279ed06564f14a1dae81\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e223455da8748f1d4d89fbd6dd910b48\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\337dc3f15c5e5935ec670933261d6930\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b91f50e406abfbea876bb178a2dba791\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\68528711390888f18e0f4bd8d420edae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6fcba2761928bbf34ee4624c75d8c9c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0806806e8dd0da9df6d4e9b1303498de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0a47dec27203941fc4da179a4959d163\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3987b77028a005b0bf76a76712512c4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6da125806c175598de44a06a76bd3475\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\abf21cc2a68a5b79ce3691181dafbbdb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb61e6cfc460f2d48a8e84c5f6ca210f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0842b593cad07cbb908383a6e77d549e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0842b593cad07cbb908383a6e77d549e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3d65f71cc89f279ed06564f14a1dae81\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3d65f71cc89f279ed06564f14a1dae81\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e223455da8748f1d4d89fbd6dd910b48\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e223455da8748f1d4d89fbd6dd910b48\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3d65f71cc89f279ed06564f14a1dae81\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.kysti.shizzle.MainActivity
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.kysti.shizzle.pelaa
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:19:19-40
+activity#com.example.kysti.shizzle.SettingsActivity
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:20:9-22:72
+	android:label
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:22:13-60
+	android:name
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:21:13-45
+meta-data#preloaded_fonts
+ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:24:9-26:57
+	android:resource
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml:25:13-43
+uses-sdk
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\70dfa1639f33c8429312d507b0134909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\70dfa1639f33c8429312d507b0134909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0842b593cad07cbb908383a6e77d549e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0842b593cad07cbb908383a6e77d549e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\827168c30e667029e8670ec88c742402\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\827168c30e667029e8670ec88c742402\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8aab790d23a1f5cea08d097818734544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8aab790d23a1f5cea08d097818734544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\19205a247f35e52c85f9eca672c83469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\19205a247f35e52c85f9eca672c83469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c57a2affaf292635209eda4b7be98903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c57a2affaf292635209eda4b7be98903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7c708cffcb0f47de7bfd8d1f690d77c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7c708cffcb0f47de7bfd8d1f690d77c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1b86675b2937678f1dd1ef8e5ec9a75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1b86675b2937678f1dd1ef8e5ec9a75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ae5233637405ca465ec8460bbb965728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ae5233637405ca465ec8460bbb965728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8ce37c95bebb80599675b9c222ba26a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8ce37c95bebb80599675b9c222ba26a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9ff779ed25e94397c434425ef9cf60a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9ff779ed25e94397c434425ef9cf60a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9999f1335ddb5d30af49393933259caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9999f1335ddb5d30af49393933259caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\372cc2ee620a7e1f8b604ff847e510a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\372cc2ee620a7e1f8b604ff847e510a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f52d9f2f4d58a85c53b60671f146e722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f52d9f2f4d58a85c53b60671f146e722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c4369d72434b818a0f44e2d6b93825d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c4369d72434b818a0f44e2d6b93825d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c4ccc13053a687b5215ee4f587ea2f29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c4ccc13053a687b5215ee4f587ea2f29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\89e078a4f3624788cfec30d9ba5d87e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\89e078a4f3624788cfec30d9ba5d87e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3d65f71cc89f279ed06564f14a1dae81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3d65f71cc89f279ed06564f14a1dae81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e223455da8748f1d4d89fbd6dd910b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e223455da8748f1d4d89fbd6dd910b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\337dc3f15c5e5935ec670933261d6930\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\337dc3f15c5e5935ec670933261d6930\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b91f50e406abfbea876bb178a2dba791\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b91f50e406abfbea876bb178a2dba791\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\68528711390888f18e0f4bd8d420edae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\68528711390888f18e0f4bd8d420edae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6fcba2761928bbf34ee4624c75d8c9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6fcba2761928bbf34ee4624c75d8c9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0806806e8dd0da9df6d4e9b1303498de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0806806e8dd0da9df6d4e9b1303498de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0a47dec27203941fc4da179a4959d163\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0a47dec27203941fc4da179a4959d163\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3987b77028a005b0bf76a76712512c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3987b77028a005b0bf76a76712512c4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6da125806c175598de44a06a76bd3475\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6da125806c175598de44a06a76bd3475\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\abf21cc2a68a5b79ce3691181dafbbdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\abf21cc2a68a5b79ce3691181dafbbdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb61e6cfc460f2d48a8e84c5f6ca210f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kysti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb61e6cfc460f2d48a8e84c5f6ca210f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kysti\AndroidStudioProjects\shizzle\app\src\main\AndroidManifest.xml

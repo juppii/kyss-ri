@@ -1,0 +1,4 @@
+#Mon Oct 08 21:49:50 EEST 2018
+base.0=C\:\\Users\\Kysti\\AndroidStudioProjects\\shizzle\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
